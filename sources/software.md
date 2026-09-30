@@ -1,11 +1,12 @@
+# Engine
 1. GZDoom (engine)
 2. Ultimate Doom Buldier (map editor)
 3. Slade (resource editor)
-# textures
+# Textures
 4. Gimp - texture processing
 5. LibreSprite (Piskel) - pixel art
 6. Krita (hand‑drawn art)
-# music
+# Music
 7. LMMS - music creation
 8. Audacity - sound recording and processing
 9. BFXR – retro sound generation
