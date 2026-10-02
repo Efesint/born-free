@@ -33,8 +33,8 @@ maps
 				requiredarchives = "";
 			}
 		}
-		defaultfloortexture = "CEIL5_1";
-		defaultceiltexture = "CRATOP1";
+		defaultfloortexture = "FLAT8";
+		defaultceiltexture = "FLAT1";
 		defaulttoptexture = "STUCCO";
 		defaultwalltexture = "STUCCO";
 		defaultbottomtexture = "STUCCO";
@@ -50,8 +50,8 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -283.2074f;
-		viewpositiony = 606.1554f;
+		viewpositionx = -123.5772f;
+		viewpositiony = 732.2589f;
 		viewscale = 1.124553f;
 		
 		grid

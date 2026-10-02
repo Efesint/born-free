@@ -1,0 +1,4 @@
+Texture "WALL_CONCRETE", 64, 64
+{
+    Patch "wall_concrete.png", 0, 0
+}
