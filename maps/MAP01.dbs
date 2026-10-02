@@ -26,18 +26,18 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\user\\Documents\\DOOM2.WAD";
+				location = "/home/anon/Desktop/DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 				requiredarchives = "";
 			}
 		}
-		defaultfloortexture = "FLOOR0_1";
-		defaultceiltexture = "CEIL1_1";
-		defaulttoptexture = "STARTAN2";
-		defaultwalltexture = "STARTAN2";
-		defaultbottomtexture = "STARTAN2";
+		defaultfloortexture = "CEIL5_1";
+		defaultceiltexture = "CRATOP1";
+		defaulttoptexture = "STUCCO";
+		defaultwalltexture = "STUCCO";
+		defaultbottomtexture = "STUCCO";
 		custombrightness = 196;
 		customfloorheight = 0;
 		customceilheight = 128;
@@ -50,9 +50,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -295.7615f;
-		viewpositiony = 559.0656f;
-		viewscale = 1.098498f;
+		viewpositionx = -283.2074f;
+		viewpositiony = 606.1554f;
+		viewscale = 1.124553f;
 		
 		grid
 		{
