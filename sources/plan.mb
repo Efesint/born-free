@@ -1,23 +1,23 @@
 morning-pills/
-├── maps/              # Карты (.wad, .dbs)
+├── maps/              # Maps (.wad, .dbs)
 │   └── MAP01.wad
-├── zscript/           # Скрипты (.zs)
-│   ├── mobs/          # Монстры
+├── zscript/           # Scripts (.zs)
+│   ├── mobs/          # Monsters
 │   │   └── andrey.zs
-│   ├── weapons/       # Оружие
-│   └── decorations/   # Объекты (декор)
-├── sprites/           # Спрайты (.png)
-│   ├── mobs/          # Спрайты монстров
-│   ├── weapons/       # Спрайты оружия
-│   └── hud/           # Спрайты интерфейса
-├── sounds/            # Звуки (.ogg)
-│   ├── mobs/          # Звуки монстров
-│   ├── weapons/       # Звуки оружия
-│   └── ambient/       # Эмбиент, шаги, шёпот
-├── music/             # Музыка (.ogg)
-├── textures/          # Текстуры (.png + TEXTURES.txt)
-├── graphics/          # HUD, TITLEPIC, лого
-├── fonts/             # Шрифты 
-├── README.md          # Описание, лицензия, warning
-├── .gitignore         # Мусор (autosave, backup)
-└── build.sh           # Скрипт сборки .pk3
+│   ├── weapons/       # Weapons
+│   └── decorations/   # Objects (decor)
+├── sprites/           # Sprites (.png)
+│   ├── mobs/          # Monster sprites
+│   ├── weapons/       # Weapon sprites
+│   └── hud/           # Interface sprites
+├── sounds/            # Sounds (.ogg)
+│   ├── mobs/          # Monster sounds
+│   ├── weapons/       # Weapon sounds
+│   └── ambient/       # Ambient, footsteps, whispers
+├── music/             # Music (.ogg)
+├── textures/          # Textures (.png + TEXTURES.txt)
+├── graphics/          # HUD, TITLEPIC, logo
+├── fonts/             # Fonts
+├── README.md          # Description, license, warnings
+├── .gitignore         # Junk files (autosave, backup)
+└── build.sh           # .pk3 build script
