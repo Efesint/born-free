@@ -3,7 +3,7 @@ morning-pills/
 │   └── MAP01.wad
 ├── zscript/           # Scripts (.zs)
 │   ├── mobs/          # Monsters
-│   │   └── andrey.zs
+│   │   └── 
 │   ├── weapons/       # Weapons
 │   └── decorations/   # Objects (decor)
 ├── sprites/           # Sprites (.png)
