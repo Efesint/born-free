@@ -1,4 +1,14 @@
-Texture "WALL_CONCRETE", 64, 64
+Texture "WALL_HOME", 64, 128
 {
-    Patch "wall_concrete.png", 0, 0
+    Patch "wall.png", 0, 0
+}
+
+Texture "WALL_HOME_B", 64, 128
+{
+    Patch "wall-b.png", 0, 0
+}
+
+Texture "WALL_HOME_W", 64, 128
+{
+    Patch "wall-w.png", 0, 0
 }

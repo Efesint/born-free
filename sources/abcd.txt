@@ -1,0 +1,31 @@
+Rotation numbers :
+
+    1 — Front (спереди, лицом к игроку)
+
+    2 — Front-Left (спереди-слева)
+
+    3 — Left (слева)
+
+    4 — Back-Left (сзади-слева)
+
+    5 — Back (сзади)
+
+    6 — Back-Right (сзади-справа)
+
+    7 — Right (справа)
+
+    8 — Front-Right (спереди-справа)
+
+ABCD shit: 
+
+A — Spawn
+
+B — See (Chase)
+
+C — Melee
+
+D — Pain
+
+E — Death
+
+F — Dead 
