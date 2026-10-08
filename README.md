@@ -1,4 +1,4 @@
-# Born free (not a playable game yet)
+# Born Free
 
 A psychological horror game built on GZDoom.
 
