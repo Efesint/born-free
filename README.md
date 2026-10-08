@@ -1,4 +1,4 @@
-# Morning-pills (not a playable game yet)
+# Born free (not a playable game yet)
 
 A psychological horror game built on GZDoom.
 
