@@ -2,6 +2,8 @@
 
 A psychological horror game built on GZDoom.
 
+Recommended for adults aged 18 and older.
+
 ## Content Warning
 
 This game contains:
